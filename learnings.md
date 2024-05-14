@@ -5,3 +5,5 @@
 - Git installed locally.
 - Github hosted on the web.
 - Git is a software and Github is a service.
+- Git is maintained by linux.
+- GitHub is maintained by Microsoft.
