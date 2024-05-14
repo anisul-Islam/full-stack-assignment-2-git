@@ -36,7 +36,7 @@
    - Create and switch to a new branch named `feature/new-learnings`.
 
 8. **Add the new features:**
-   - In the ` learnings.md` file, find and fix a typo.
+   - In the ` learnings.md` file, add 2 more of your learnings.
 
 9. **Commit the feature branch:**
    - Add, commit, and push your changes to the remote repository.
