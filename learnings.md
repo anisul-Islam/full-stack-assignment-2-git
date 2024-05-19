@@ -3,3 +3,5 @@
 - Branching
 - Collaboration
 - Respisotories
+- Open Source Contribution
+- Learning & Sharing
