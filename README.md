@@ -11,7 +11,7 @@
 2. **Clone the Repository:**
    - Clone the forked repository to your local machine.
   
-#### Part 2: Create a Feature Branch
+#### Part 2: Create a Feature Branch.
 
 3. **Create a New Branch:**
    - Create and switch to a new branch named `feature/added-learnings`.
