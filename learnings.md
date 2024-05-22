@@ -20,3 +20,13 @@
 5. Git
    - Branching
    - Marging
+
+### Lecture 3
+
+6. Overview of the previus classes
+7. SSH key
+   - ssh key generate
+   - ssh public key add to github
+8. merge conflict
+   - What is merge conflict
+   - how to resolve merge conflict
