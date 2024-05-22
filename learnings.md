@@ -1,4 +1,4 @@
-# 5 Things I have learned about Git and GitHub
+# 8 Things I have learned about Git and GitHub
 
 ### Lecture 1
 
