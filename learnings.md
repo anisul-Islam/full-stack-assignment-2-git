@@ -24,3 +24,12 @@ $ git commit -m “commit message eg- initial commit”
 ```github
 $ git push origin <remote branch name>
 ```
+# 2 More of my learnings
+6. Pull — to download and integrate remote branch changes in your local branch.
+```githup
+$ git pull origin <remote branch name>
+```
+7. Branch — create a new pointer head on the commits.
+```github
+$ git branch <branch-name>
+```
