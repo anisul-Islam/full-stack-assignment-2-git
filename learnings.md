@@ -11,6 +11,10 @@
    </li>
    <li>Branching & Merge : <p> From the session I have learnt how to create branches and merge the branches to add the changes made in other branch to main.</p>
    </li>
+   <li>Switching branch : <p> From the session I have learnt how to switch branches and connect them to main</p>
+   </li>
+   <li>How to do PR : <p> From the session I have learnt how to Pull request and add collaborate</p>
+   </li>
 
 </ul>
 </section>
