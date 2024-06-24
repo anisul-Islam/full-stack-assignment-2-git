@@ -8,4 +8,4 @@
 
 **4.Project Management**: GitHub enables collaboration; multiple developers can access and update projects with proper permissions.
 
-**5.Trusted and Community-Friendly**: GitHub hosts many open-source projects, providing transparency and fostering a beginner-friendly environment where developers can learn from each other.
+**5.Trusted and Community-Friendly**: GitHub hosts many open-source projects, providing transparency and fostering a beginner-friendly environment where developers can learn from each other. .
